@@ -33,3 +33,7 @@ https://discord.gg/gCQx499JYY
 
 ## PREVIEW YT
 Preview: https://youtu.be/8Ww_AFpOt4o
+
+
+<p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/qb-spawn-v2-replace/count.svg" />

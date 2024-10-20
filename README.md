@@ -4,6 +4,9 @@ Spawn Selector for QB-Core Framework :eagle:
 # Edited By
 !                         MamBa#4107
 
+- Buy Me Coffee ☕
+https://buymeacoffee.com/mambaop
+
 # JOIN DISCORD
 https://discord.gg/gCQx499JYY
 
